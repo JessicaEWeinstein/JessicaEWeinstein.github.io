@@ -10,5 +10,5 @@ Heart of Alice Website Assets folder &nbsp;
 7. Add Website Files &nbsp;
 8. Check Github and write a summary then click commit &nbsp;
 9. Push origin also known as publish &nbsp;
-10. Realized I forgot my web pages and had to repeat steps again &nbsp;
+10. Realized I forgot my web pages and had to repeat the steps again &nbsp;
 11. Checked to make sure all pages worked &nbsp;
