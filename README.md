@@ -1,8 +1,7 @@
-# 
-1. Name: Jessica Weinstein  Email: JessicaE.Weinstein@gmail.com &nbsp;
-2. Github account: JessicaEWeinstein.github.io &nbsp;
-3. Repository Created: Heart of Alice-Website pages and Assets folder 
-4.Steps taken to Clone &nbsp;
+# Name: Jessica Weinstein  Email: JessicaE.Weinstein@gmail.com &nbsp;
+Github account: JessicaEWeinstein.github.io &nbsp;
+Repository Created: Heart of Alice-Website pages and Assets folder 
+Steps taken to Clone &nbsp;
 1. Sign up for GitHub &nbsp;
 2. Create a new Repository &nbsp;
 3. Name Repository after username &nbsp;
