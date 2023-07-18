@@ -1,4 +1,4 @@
-# Jessica Weinstein JessicaE.Weinstein@gmail.com
+# Jessica Weinstein JessicaE.Weinstein@gmail.com &nbsp;
 Github account JessicaEWeinstein.github.io &nbsp;
 Heart of Alice Website Assets folder &nbsp;
 1. Sign up for Github &nbsp;
