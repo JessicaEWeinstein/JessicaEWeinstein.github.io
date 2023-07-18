@@ -1,4 +1,4 @@
-# Name: Jessica Weinstein  Email: JessicaE.Weinstein@gmail.com &nbsp;
+# Name: Jessica Weinstein &nbsp;  Email: JessicaE.Weinstein@gmail.com &nbsp;
 Github account: JessicaEWeinstein.github.io &nbsp;
 Repository Created: Heart of Alice-Website pages and Assets folder 
 Steps taken to Clone &nbsp;
